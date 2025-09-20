@@ -1,0 +1,16 @@
+﻿# ---- Android ----
+*.iml
+.gradle/
+local.properties
+/.idea/
+.cxx/
+**/build/
+captures/
+.externalNativeBuild/
+*.keystore
+*.jks
+**/google-services.json
+
+# ---- Genel ----
+.DS_Store
+Thumbs.db
