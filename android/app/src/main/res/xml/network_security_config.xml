@@ -1,7 +1,0 @@
-<?xml version="1.0" encoding="utf-8"?>
-<network-security-config>
-    <!-- Sadece yerel geliştirme için: 192.168.1.136 cleartext'e izin ver -->
-    <domain-config cleartextTrafficPermitted="true">
-        <domain includeSubdomains="false">192.168.1.136</domain>
-    </domain-config>
-</network-security-config>
