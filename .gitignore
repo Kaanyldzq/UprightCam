@@ -14,3 +14,15 @@ captures/
 # ---- Genel ----
 .DS_Store
 Thumbs.db
+
+# ---- Backend ----
+backend/node_modules/
+backend/.env
+backend/dist/
+
+
+# ---- Backend ----
+backend/node_modules/
+backend/.env
+backend/dist/
+
