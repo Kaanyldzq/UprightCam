@@ -1,0 +1,31 @@
+# ---- Android/Gradle ----
+**/build/
+**/.gradle/
+.gradle/
+.cxx/
+*.iml
+local.properties
+app/release/
+app/debug/
+app/*.jks
+app/*.keystore
+
+# ---- IDE ----
+.idea/
+.vscode/
+.DS_Store
+Thumbs.db
+
+# ---- Node (server) ----
+server/node_modules/
+server/uploads/
+server/.env
+server/*.db
+server/*.sqlite
+server/*.log
+npm-debug.log*
+yarn-error.log*
+pnpm-debug.log*
+
+# ---- Misc ----
+*.log
